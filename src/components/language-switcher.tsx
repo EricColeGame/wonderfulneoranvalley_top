@@ -11,7 +11,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 
-const LOCALE_LABELS = {
+const LOCALE_LABELS: Record<string, string> = {
   en: "English",
   it: "Italiano",
   es: "Español",
