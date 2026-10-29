@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@wonderfulneoranvalley",
     twitter: "https://x.com/NeoranValley",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "it", "es", "fr"],
   defaultLocale: "en",
 };

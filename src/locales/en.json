@@ -6,7 +6,18 @@
     "description": "Find Wonderful Neoran Valley creature profiles, recruitment tips, battle strategies, team synergies, story guides, and release updates in one fan-made wiki.",
     "legalNotice": "Independent fan-made wiki. Not affiliated with Nara Studio."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "community": "Community",
+    "funding": "Funding",
+    "media": "Media"
+  },
   "home": {
     "meta": {
       "title": "Wonderful Neoran Valley Wiki - Neoran, Combat & Release Guides",
@@ -186,7 +197,7 @@
           "highlights": [
             {
               "label": "Pero",
-          "detail": "A fearless Valley creature at the bottom of the food chain that communicates by spinning."
+              "detail": "A fearless Valley creature at the bottom of the food chain that communicates by spinning."
             },
             {
               "label": "Yakid",
@@ -403,13 +414,9 @@
       "secondary": "Join Official Discord"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -434,10 +441,38 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official X",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Characters",
+    "mechanicsGuides": "Mechanics",
+    "releaseGuides": "Release"
+  },
+  "guide": {
+    "overviewTitle": "Wonderful Neoran Valley Guide",
+    "overviewDescription": "Start with beginner guidance, gameplay explainers, practical tips, trailer breakdowns, and review coverage for the 2028 roguelite."
+  },
+  "release": {
+    "overviewTitle": "Wonderful Neoran Valley Release",
+    "overviewDescription": "Follow the confirmed 2028 release window, PC and console platforms, Steam wishlist status, and demo updates."
+  },
+  "mechanics": {
+    "overviewTitle": "Wonderful Neoran Valley Mechanics",
+    "overviewDescription": "Understand Timeline foresight, Synapse actions, Neoran recruitment, combat flow, and the game’s roguelite systems."
+  },
+  "characters": {
+    "overviewTitle": "Wonderful Neoran Valley Characters",
+    "overviewDescription": "Meet the Knight, Iris, and confirmed Neorans such as Pero and Yakid, with profiles and recruitment context."
+  },
+  "community": {
+    "overviewTitle": "Wonderful Neoran Valley Community",
+    "overviewDescription": "Find the official Discord, community discussion, fan art coverage, and information about the Nara Studio team."
+  },
+  "funding": {
+    "overviewTitle": "Wonderful Neoran Valley Funding",
+    "overviewDescription": "Review the Kickstarter result, funding goal, stretch goals, and reward tiers from the March 2026 campaign."
+  },
+  "media": {
+    "overviewTitle": "Wonderful Neoran Valley Media",
+    "overviewDescription": "Explore confirmed music, soundtrack singles, artbook details, and official website coverage."
   }
 }
