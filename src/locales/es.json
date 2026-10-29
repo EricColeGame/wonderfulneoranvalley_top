@@ -1,1 +1,478 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Wonderful Neoran Valley",
+    "shortName": "Wonderful Neoran Valley",
+    "tagline": "Roguelite narrativo de colección de monstruos",
+    "description": "Encuentra perfiles de criaturas de Wonderful Neoran Valley, consejos de reclutamiento, estrategias de combate, sinergias de equipo, guías de historia y novedades de lanzamiento en una wiki creada por fans.",
+    "legalNotice": "Wiki independiente creada por fans. No está afiliada a Nara Studio."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "release": "Lanzamiento",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "community": "Comunidad",
+    "funding": "Financiación",
+    "media": "Medios"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Wonderful Neoran Valley: guías de Neoran, combate y lanzamiento",
+      "description": "Explora Wonderful Neoran Valley con perfiles confirmados de Neoran, consejos de combate de la Timeline, reclutamiento mediante diálogos, sinergias de equipo y detalles del lanzamiento en 2028."
+    },
+    "hero": {
+      "eyebrow": "Roguelite narrativo de colección de monstruos",
+      "title": "Wiki de Wonderful Neoran Valley",
+      "description": "Explora Wonderful Neoran Valley, un roguelite narrativo de colección de monstruos. Recluta Neoran únicos mediante diálogos, planifica batallas tácticas con una Timeline de previsión de siete turnos, crea potentes sinergias de equipo y descubre los secretos oscuros que se ocultan bajo el Valle.",
+      "stats": [
+        "85 Neoran únicos",
+        "Previsión de 7 turnos",
+        "Lanzamiento previsto en 2028",
+        "PC / PS5 / Switch 2"
+      ],
+      "primaryCta": "Sitio oficial (PC / PS5 / Switch 2)",
+      "secondaryCta": "Únete al Discord oficial",
+      "tertiaryCta": "Ver el tráiler oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Wonderful Neoran Valley",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende la Timeline, Synapse, las cargas de Neura y el reclutamiento mediante diálogos antes de tu primera partida por el Valle."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos del combate",
+          "description": "Observa los planes enemigos varios turnos antes y elige el orden de acciones y las sinergias que ganan combates sin malgastar recursos."
+        },
+        {
+          "number": "3",
+          "title": "Reclutamiento de Neoran",
+          "description": "Habla con los Neoran inteligentes en el campo de batalla, interpreta cada personalidad y forma un equipo recluta a recluta."
+        },
+        {
+          "number": "4",
+          "title": "Creación de equipo",
+          "description": "Combina las acciones de los Neoran con Joyas, Sigilos y Rasgos para crear un equipo capaz de respaldar cualquier plan de batalla."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Lista de Neoran",
+        "Combate con Timeline",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Empieza con los fundamentos confirmados del combate con Timeline, Synapse, las cargas de Neura y el reclutamiento mediante diálogos.",
+          "href": "/guide/wonderful-neoran-valley-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de Neoran",
+          "description": "Conoce a Pero, Yakid, Sagira, Biskem y Mehtyr, además del alcance confirmado de la lista de reclutables.",
+          "href": "/characters/wonderful-neoran-valley-neorans"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de combate",
+          "description": "Planifica en torno a la Timeline, encadena sinergias de equipo y conserva recursos durante cada partida roguelite.",
+          "href": "/mechanics/wonderful-neoran-valley-combat"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de reclutamiento",
+          "description": "Comprende el reclutamiento mediante diálogos y cómo responde cada Neoran al Caballero.",
+          "href": "/mechanics/wonderful-neoran-valley-monster-taming"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Fecha de lanzamiento",
+          "description": "Sigue la ventana de 2028, las plataformas confirmadas, los idiomas de lanzamiento y los canales oficiales para añadir el juego a tu lista de deseos.",
+          "href": "/release/wonderful-neoran-valley-release-date"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Análisis del tráiler",
+          "description": "Descubre a los protagonistas rediseñados, los nuevos Neoran, el combate con Timeline, Synapse y el reparto de voces confirmado.",
+          "href": "/guide/wonderful-neoran-valley-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Wonderful Neoran Valley?",
+      "paragraphs": [
+        "Wonderful Neoran Valley es un roguelite narrativo de colección de monstruos de Nara Studio. Juegas como el Caballero, un soldado potenciado por la Neura cuya previsión revela las acciones enemigas varios turnos antes a través de la Timeline. En lugar de capturar criaturas, reclutas Neoran inteligentes mediante diálogos en el campo de batalla, y cada recluta añade nuevas acciones y una opción única de Synapse.",
+        "Las batallas premian la planificación eficiente por encima de la fuerza bruta. Las Joyas otorgan bonificaciones pasivas a todo el equipo, los Sigilos modifican las acciones de cada Neoran y los Rasgos pueden afectar a todas las criaturas del campo. El juego apunta a un lanzamiento en 2028 en PC mediante Steam, PlayStation 5 y Nintendo Switch 2, con más de 70 Neoran reclutables prometidos en el alcance base."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Nara Studio"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC / PS5 / Switch 2"
+        },
+        {
+          "label": "Ventana de lanzamiento",
+          "value": "2028"
+        },
+        {
+          "label": "Plantilla base",
+          "value": "70+ Neoran"
+        },
+        {
+          "label": "Género",
+          "value": "Roguelite narrativo"
+        },
+        {
+          "label": "Idiomas de lanzamiento",
+          "value": "EN / IT / ES / FR"
+        },
+        {
+          "label": "Previsión",
+          "value": "7 turnos"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Wonderful Neoran Valley",
+      "description": "Sumérgete en Wonderful Neoran Valley con orientación para principiantes, perfiles de Neoran, combate con Timeline, reclutamiento, exploración, detalles del lanzamiento y cobertura del tráiler.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Wonderful Neoran Valley",
+          "description": "Empieza con los fundamentos confirmados: la Timeline, Synapse, las cargas de Neura, las Joyas, los Sigilos, los Rasgos y el reclutamiento mediante diálogos.",
+          "href": "/guide/wonderful-neoran-valley-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lee la Timeline para ver las acciones de los Neoran enemigos varios turnos antes."
+            },
+            {
+              "label": "2",
+              "detail": "Recluta Neoran mediante diálogos en el campo de batalla en lugar de usar dispositivos de captura."
+            },
+            {
+              "label": "3",
+              "detail": "Usa Synapse durante la fase de planificación gastando cargas de Neura."
+            },
+            {
+              "label": "4",
+              "detail": "Equipa Joyas para obtener bonificaciones de todo el equipo y Sigilos para acciones individuales."
+            },
+            {
+              "label": "5",
+              "detail": "Gana de forma eficiente para conservar ataques, objetos y HP para el siguiente combate."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de Neoran de Wonderful Neoran Valley",
+          "description": "Conoce a los Neoran confirmados, desde Pero y Yakid hasta ejemplos de combate con nombre como Sagira, Biskem y Mehtyr.",
+          "href": "/characters/wonderful-neoran-valley-neorans",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pero",
+              "detail": "Una criatura intrépida del Valle situada al final de la cadena alimentaria que se comunica girando."
+            },
+            {
+              "label": "Yakid",
+              "detail": "Una resistente criatura costera de clan que sirve a su Wakiza y puede detectar reservas de Neura a lo lejos."
+            },
+            {
+              "label": "Sagira",
+              "detail": "Un Neoran con nombre cuyo Silent Assassin puede interrumpir un potente ataque Cloudbreak."
+            },
+            {
+              "label": "Biskem",
+              "detail": "Un Neoran salvaje que aparece preparando Cloudbreak con una bonificación de daño del 300% en el tráiler."
+            },
+            {
+              "label": "Mehtyr",
+              "detail": "Un recluta que se guía por el debate, se resiste a los acuerdos fáciles y pone a prueba cómo afronta el Caballero sus objeciones."
+            },
+            {
+              "label": "Lista",
+              "detail": "Se prevén más de 70 Neoran reclutables en el alcance base, con evolución confirmada."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de combate de Wonderful Neoran Valley",
+          "description": "Domina la previsión de la Timeline, el orden de acciones, la sinergia de equipo, las cargas de Neura y la planificación eficiente de recursos en cada partida.",
+          "href": "/mechanics/wonderful-neoran-valley-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lee la Timeline para identificar las próximas acciones enemigas y las combinaciones preparadas."
+            },
+            {
+              "label": "2",
+              "detail": "Planifica ataque y defensa en torno al orden de acciones, no solo al daño bruto."
+            },
+            {
+              "label": "3",
+              "detail": "Encadena cambios y movimientos concretos para activar efectos de sinergia de los Neoran."
+            },
+            {
+              "label": "4",
+              "detail": "Gasta cargas de Neura en acciones de Synapse cuando puedan cambiar el orden de los turnos."
+            },
+            {
+              "label": "5",
+              "detail": "Conserva ataques, objetos y HP para los encuentros siguientes."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Wonderful Neoran Valley",
+          "description": "Compara a los Neoran confirmados y los ejemplos de combate con nombre según su utilidad táctica, resistencia e impacto confirmado en batalla.",
+          "href": "/characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sagira: Silent Assassin puede detener un Cloudbreak al 300% con dos cargas de Neura."
+            },
+            {
+              "label": "A",
+              "detail": "Yakid: resistente combatiente costero con detección de Neura a larga distancia."
+            },
+            {
+              "label": "B",
+              "detail": "Mehtyr: un recluta que se guía por el debate y cuyas objeciones exigen elecciones de diálogo cuidadosas."
+            },
+            {
+              "label": "C",
+              "detail": "Pero: está al final de la cadena alimentaria y solo se comunica girando."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de reclutamiento de Wonderful Neoran Valley",
+          "description": "Aprende cómo funciona el reclutamiento mediante diálogos, por qué cada Neoran reacciona de forma distinta y cómo la personalidad condiciona la creación del equipo.",
+          "href": "/mechanics/wonderful-neoran-valley-monster-taming",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Diálogo",
+              "detail": "El reclutamiento se produce mediante conversaciones en el campo de batalla, no con dispositivos ni porcentajes de captura."
+            },
+            {
+              "label": "Mehtyr",
+              "detail": "Responder a sus objeciones es importante, pero estar de acuerdo demasiado rápido puede llevarle a defender lo contrario."
+            },
+            {
+              "label": "Yakid",
+              "detail": "Su lealtad a un clan costero y a su Wakiza determina cómo encaja la criatura en el Valle."
+            },
+            {
+              "label": "Evolución",
+              "detail": "Nara Studio confirma que los Neoran evolucionan, lo que añade otra capa a la planificación del equipo a largo plazo."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Biomas y exploración de Wonderful Neoran Valley",
+          "description": "Explora los entornos del Valle, la estructura de las partidas roguelite, los Clústeres de Neura, las tiendas y los descubrimientos que perduran entre intentos.",
+          "href": "/guide/wonderful-neoran-valley-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Neura",
+              "detail": "La fuerza vital primordial que da forma al Valle y a las criaturas que lo habitan."
+            },
+            {
+              "label": "Clústeres",
+              "detail": "Los Clústeres de Neura distorsionan las zonas cercanas y pueden volver hostiles a los Neoran locales."
+            },
+            {
+              "label": "Ecosistema",
+              "detail": "El Valle es una frágil red de jerarquías locales e intereses enfrentados."
+            },
+            {
+              "label": "Partidas",
+              "detail": "Cada viaje puede revelar nuevos Neoran, objetos y sinergias, mientras el conocimiento se conserva."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento y plataformas de Wonderful Neoran Valley",
+          "description": "Sigue la ventana de lanzamiento confirmada para 2028, las plataformas de PC y consola, los idiomas de lanzamiento y los canales oficiales para la lista de deseos.",
+          "href": "/release/wonderful-neoran-valley-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "La página de Steam está disponible para añadir el juego a la lista de deseos; no se ha anunciado precio ni demo pública."
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 es una plataforma de lanzamiento confirmada."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 es una plataforma de lanzamiento confirmada."
+            },
+            {
+              "label": "2028",
+              "detail": "Nara Studio apunta a una ventana de lanzamiento en 2028 sin una fecha exacta anunciada."
+            },
+            {
+              "label": "Idiomas",
+              "detail": "Inglés, francés, español e italiano están confirmados para el lanzamiento."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y tráileres de Wonderful Neoran Valley",
+          "description": "Sigue los últimos tráileres de Wonderful Neoran Valley, el lanzamiento en Steam, su presencia en Lucca Comics & Games y el reparto de voces confirmado.",
+          "href": "/guide/wonderful-neoran-valley-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráiler",
+              "detail": "La presentación del 27 de octubre de 2026 muestra a los protagonistas rediseñados, nuevos Neoran, jugabilidad y escenas animadas."
+            },
+            {
+              "label": "Steam",
+              "detail": "La página de Steam se abrió junto con el tráiler e invita a los jugadores a añadir el juego a su lista de deseos."
+            },
+            {
+              "label": "Lucca",
+              "detail": "Nara Studio cuenta con un stand en la Sala Canova de Lucca Comics & Games 2026 del 28 de octubre al 1 de noviembre."
+            },
+            {
+              "label": "Reparto",
+              "detail": "Troy Baker da voz al Caballero, mientras que Ben Starr da voz a Iris."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Wonderful Neoran Valley",
+      "description": "Respuestas a las preguntas habituales sobre Wonderful Neoran Valley, su combate, reclutamiento, plataformas y ventana de lanzamiento.",
+      "items": [
+        {
+          "question": "¿Qué es Wonderful Neoran Valley?",
+          "answer": "Wonderful Neoran Valley es un roguelite narrativo de colección de monstruos de Nara Studio. El Caballero usa la previsión para leer las acciones enemigas mediante la Timeline, recluta Neoran inteligentes a través de diálogos en el campo de batalla y forma un equipo con Synapse, Joyas, Sigilos y Rasgos."
+        },
+        {
+          "question": "¿Cuándo se lanza Wonderful Neoran Valley?",
+          "answer": "Wonderful Neoran Valley apunta a una ventana de lanzamiento en 2028. Nara Studio ha confirmado PC mediante Steam, PlayStation 5 y Nintendo Switch 2, pero no se ha anunciado una fecha de lanzamiento exacta."
+        },
+        {
+          "question": "¿Cómo se recluta a los Neoran en Wonderful Neoran Valley?",
+          "answer": "Reclutas a los Neoran hablando con ellos en el campo de batalla. Cada criatura responde de forma distinta al Caballero, así que interpretar su personalidad y sus objeciones importa más que usar un dispositivo de captura."
+        },
+        {
+          "question": "¿Qué es la Timeline en Wonderful Neoran Valley?",
+          "answer": "La Timeline es el pronóstico de combate que genera la previsión del Caballero. Revela las acciones de los Neoran enemigos varios turnos antes para que puedas planificar el orden de acciones, el momento de usar Synapse y las sinergias de equipo."
+        },
+        {
+          "question": "¿Wonderful Neoran Valley tiene una demo pública?",
+          "answer": "A 29 de octubre de 2026 no se ha anunciado ninguna demo jugable pública de Wonderful Neoran Valley. La página de Steam está disponible para la lista de deseos, y el sitio web oficial y Discord son los principales canales para futuros anuncios."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Wonderful Neoran Valley?",
+      "description": "Recluta Neoran únicos mediante diálogos, planifica con siete turnos de antelación, crea potentes sinergias de equipo y descubre los secretos ocultos bajo el Valle.",
+      "primary": "Visita el sitio oficial (PC / PS5 / Switch 2)",
+      "secondary": "Únete al Discord oficial"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Material oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Wonderful Neoran Valley",
+    "about": "La Wiki de Wonderful Neoran Valley es un centro de guías independiente creado por fans que cubre el reclutamiento de Neoran, combates con previsión de siete turnos, sinergias de equipo, perfiles de criaturas y novedades de lanzamiento.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Wonderful Neoran Valley. Sitio de fans independiente; no afiliado a Nara Studio.",
+    "description": "Roguelite narrativo de colección de monstruos de Nara Studio. Previsto para PC, PS5 y Nintendo Switch 2 en 2028.",
+    "playGame": "Visita el sitio oficial",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "X oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "characterGuides": "Personajes",
+    "mechanicsGuides": "Mecánicas",
+    "releaseGuides": "Lanzamiento"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Wonderful Neoran Valley",
+    "overviewDescription": "Empieza con orientación para principiantes, explicaciones del gameplay, consejos prácticos, análisis de tráileres y cobertura del roguelite de 2028."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento de Wonderful Neoran Valley",
+    "overviewDescription": "Sigue la ventana de lanzamiento confirmada para 2028, las plataformas de PC y consola, el estado de la lista de deseos de Steam y las novedades sobre la demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Wonderful Neoran Valley",
+    "overviewDescription": "Comprende la previsión de la Timeline, las acciones de Synapse, el reclutamiento de Neoran, el flujo del combate y los sistemas roguelite del juego."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Wonderful Neoran Valley",
+    "overviewDescription": "Conoce al Caballero, a Iris y a Neoran confirmados como Pero y Yakid, con perfiles y contexto sobre el reclutamiento."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Wonderful Neoran Valley",
+    "overviewDescription": "Encuentra el Discord oficial, debates de la comunidad, contenido de fan art e información sobre el equipo de Nara Studio."
+  },
+  "funding": {
+    "overviewTitle": "Financiación de Wonderful Neoran Valley",
+    "overviewDescription": "Revisa el resultado de Kickstarter, el objetivo de financiación, los stretch goals y los niveles de recompensa de la campaña de marzo de 2026."
+  },
+  "media": {
+    "overviewTitle": "Medios de Wonderful Neoran Valley",
+    "overviewDescription": "Explora la música confirmada, los sencillos de la banda sonora, los detalles del artbook y la cobertura del sitio web oficial."
+  }
+}
