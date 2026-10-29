@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Wonderful Neoran Valley Wiki - Neoran, Combat & Release Guides",
+      "description": "Explore Wonderful Neoran Valley with confirmed Neoran profiles, Timeline combat tips, dialogue recruitment, team synergies, and 2028 release details."
     },
     "hero": {
       "eyebrow": "Narrative Roguelite Monster Collector",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Wonderful Neoran Valley Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Timeline, Synapse, Neura charges, and dialogue-based recruitment before your first run through the Valley."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "See enemy plans several turns ahead, then choose action order and synergies that win fights without wasting resources."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Neoran Recruitment",
+          "description": "Talk to intelligent Neoran on the battlefield, read each personality, and build a party one recruit at a time."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Team Building",
+          "description": "Combine Neoran actions with Jewels, Sigils, and Traits to create a team that supports every battle plan."
         }
       ]
     },
@@ -62,265 +62,337 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Neoran Roster",
+        "Timeline Combat",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with the confirmed basics of Timeline combat, Synapse, Neura charges, and dialogue recruitment.",
+          "href": "/guide/wonderful-neoran-valley-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Neoran Roster",
+          "description": "Meet Pero, Yakid, Sagira, Biskem, and Mehtyr, plus the confirmed scope of the recruitable roster.",
+          "href": "/characters/wonderful-neoran-valley-neorans"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Combat Guide",
+          "description": "Plan around the Timeline, chain team synergies, and conserve resources across each roguelite run.",
+          "href": "/mechanics/wonderful-neoran-valley-combat"
+        },
+        {
+          "badge": "Popular",
+          "title": "Recruitment Guide",
+          "description": "Understand dialogue-based recruitment and how each Neoran responds to the Knight.",
+          "href": "/mechanics/wonderful-neoran-valley-monster-taming"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Release Date",
+          "description": "Track the 2028 window, confirmed platforms, launch languages, and official wishlist channels.",
+          "href": "/release/wonderful-neoran-valley-release-date"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Trailer Breakdown",
+          "description": "See the redesigned leads, new Neoran, Timeline combat, Synapse, and the confirmed voice cast.",
+          "href": "/guide/wonderful-neoran-valley-trailer"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Wonderful Neoran Valley?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Wonderful Neoran Valley is a narrative-driven roguelite monster collector from Nara Studio. You play as the Knight, a Neura-enhanced soldier whose foresight reveals enemy actions several turns ahead through the Timeline. Rather than catching creatures, you recruit intelligent Neoran through battlefield dialogue, and each recruit adds new actions and a unique Synapse option.",
+        "Battles reward efficient planning over brute force. Jewels grant team-wide passive bonuses, Sigils modify individual Neoran actions, and Traits can affect every creature on the field. The game is targeting a 2028 launch on PC via Steam, PlayStation 5, and Nintendo Switch 2, with more than 70 recruitable Neoran promised at base scope."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Nara Studio"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Platforms",
+          "value": "PC / PS5 / Switch 2"
+        },
+        {
+          "label": "Release Window",
+          "value": "2028"
+        },
+        {
+          "label": "Base Roster",
+          "value": "70+ Neoran"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Narrative Roguelite"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Launch Languages",
+          "value": "EN / IT / ES / FR"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Foresight",
+          "value": "7 Turns"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Wonderful Neoran Valley Wiki",
+      "description": "Dive into Wonderful Neoran Valley with beginner guidance, Neoran profiles, Timeline combat, recruitment, exploration, release details, and trailer coverage.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Wonderful Neoran Valley Beginner Guide",
+          "description": "Start with the confirmed basics: the Timeline, Synapse, Neura charges, Jewels, Sigils, Traits, and dialogue-based recruitment.",
+          "href": "/guide/wonderful-neoran-valley-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Read the Timeline to see enemy Neoran actions several turns ahead."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Recruit Neoran through battlefield dialogue instead of capture devices."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Use Synapse during the planning phase by spending Neura charges."
+            },
+            {
+              "label": "4",
+              "detail": "Equip Jewels for team-wide bonuses and Sigils for individual actions."
+            },
+            {
+              "label": "5",
+              "detail": "Win efficiently so attacks, items, and HP remain available for the next fight."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Wonderful Neoran Valley Neoran Guide",
+          "description": "Meet the confirmed Neoran, from Pero and Yakid to named combat examples such as Sagira, Biskem, and Mehtyr.",
+          "href": "/characters/wonderful-neoran-valley-neorans",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Pero",
+          "detail": "A fearless Valley creature at the bottom of the food chain that communicates by spinning."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Yakid",
+              "detail": "A durable coastal clan creature that serves its Wakiza and can detect Neura stockpiles from afar."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Sagira",
+              "detail": "A named Neoran whose Silent Assassin can interrupt a powerful Cloudbreak attack."
+            },
+            {
+              "label": "Biskem",
+              "detail": "A wild Neoran shown preparing Cloudbreak with a 300% damage bonus in the trailer."
+            },
+            {
+              "label": "Mehtyr",
+              "detail": "A debate-driven recruit that resists easy agreement and tests how the Knight handles its objections."
+            },
+            {
+              "label": "Roster",
+              "detail": "More than 70 recruitable Neoran are planned at base scope, with evolution confirmed."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Wonderful Neoran Valley Combat Guide",
+          "description": "Master Timeline foresight, action order, team synergy, Neura charges, and resource-efficient planning across every run.",
+          "href": "/mechanics/wonderful-neoran-valley-combat",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Read the Timeline to identify incoming enemy actions and combo setups."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Plan offense and defense around action order, not raw damage alone."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Chain switches and specific moves to trigger Neoran synergy effects."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Spend Neura charges on Synapse actions when they can change the turn order."
+            },
+            {
+              "label": "5",
+              "detail": "Conserve attacks, items, and HP for the encounters that follow."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Wonderful Neoran Valley Tier List",
+          "description": "Compare confirmed Neoran and named combat examples by tactical utility, durability, and confirmed battle impact.",
+          "href": "/characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Sagira - Silent Assassin can stop a 300% Cloudbreak for two Neura charges."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Yakid - Durable coastal fighter with long-range Neura detection."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Mehtyr - A debate-driven recruit whose objections require careful dialogue choices."
+            },
+            {
+              "label": "C",
+              "detail": "Pero - Low on the food chain and communicates only by spinning."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Wonderful Neoran Valley Recruitment Guide",
+          "description": "Learn how dialogue recruitment works, why each Neoran reacts differently, and how personality shapes party building.",
+          "href": "/mechanics/wonderful-neoran-valley-monster-taming",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Dialogue",
+              "detail": "Recruitment happens through battlefield conversation, not capture devices or capture rates."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Mehtyr",
+              "detail": "Matching its objections matters, but agreeing too quickly can make it argue the opposite case."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Yakid",
+              "detail": "Its loyalty to a coastal clan and its Wakiza shapes how the creature fits the Valley."
+            },
+            {
+              "label": "Evolution",
+              "detail": "Nara Studio confirms that Neoran evolve, adding another layer to long-term party planning."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Wonderful Neoran Valley Biomes and Exploration",
+          "description": "Explore the Valley's environments, roguelite run structure, Neura Clusters, shops, and the discoveries that carry between attempts.",
+          "href": "/guide/wonderful-neoran-valley-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Neura",
+              "detail": "The primal life force that shapes the Valley and the creatures living within it."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Clusters",
+              "detail": "Neura Clusters distort nearby areas and can make local Neoran hostile."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Ecosystem",
+              "detail": "The Valley is a fragile web of local hierarchies and competing interests."
+            },
+            {
+              "label": "Runs",
+              "detail": "Each journey can reveal new Neoran, items, and synergies while knowledge carries forward."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Wonderful Neoran Valley Release Date and Platforms",
+          "description": "Track the confirmed 2028 release window, PC and console platforms, launch languages, and official wishlist channels.",
+          "href": "/release/wonderful-neoran-valley-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Steam store page is live for wishlisting; no price or public demo has been announced."
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 is a confirmed launch platform."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 is a confirmed launch platform."
+            },
+            {
+              "label": "2028",
+              "detail": "Nara Studio targets a 2028 release window with no exact date announced."
+            },
+            {
+              "label": "Languages",
+              "detail": "English, French, Spanish, and Italian are confirmed for launch."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Wonderful Neoran Valley News and Trailers",
+          "description": "Follow the latest Wonderful Neoran Valley trailer, Steam launch, Lucca Comics & Games appearance, and confirmed voice cast.",
+          "href": "/guide/wonderful-neoran-valley-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "The October 27, 2026 reveal shows redesigned leads, new Neoran, gameplay, and animated cutscenes."
+            },
+            {
+              "label": "Steam",
+              "detail": "The Steam page opened alongside the trailer and invites players to wishlist the game."
+            },
+            {
+              "label": "Lucca",
+              "detail": "Nara Studio hosts a booth in Sala Canova at Lucca Comics & Games 2026 from October 28 to November 1."
+            },
+            {
+              "label": "Cast",
+              "detail": "Troy Baker voices the Knight, while Ben Starr voices Iris."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Wonderful Neoran Valley FAQ",
+      "description": "Answers to common questions about Wonderful Neoran Valley, its combat, recruitment, platforms, and release window.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Wonderful Neoran Valley?",
+          "answer": "Wonderful Neoran Valley is a narrative-driven roguelite monster collector from Nara Studio. The Knight uses foresight to read enemy actions through the Timeline, recruits intelligent Neoran through battlefield dialogue, and builds a team with Synapse, Jewels, Sigils, and Traits."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Wonderful Neoran Valley release?",
+          "answer": "Wonderful Neoran Valley is targeting a 2028 release window. Nara Studio has confirmed PC via Steam, PlayStation 5, and Nintendo Switch 2, but no exact launch date has been announced."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do you recruit Neoran in Wonderful Neoran Valley?",
+          "answer": "You recruit Neoran by talking to them on the battlefield. Each creature responds differently to the Knight, so matching its personality and objections matters more than using a capture device."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the Timeline in Wonderful Neoran Valley?",
+          "answer": "The Timeline is the combat forecast created by the Knight's foresight. It reveals enemy Neoran actions several turns ahead so you can plan action order, Synapse timing, and team synergies."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Wonderful Neoran Valley have a public demo?",
+          "answer": "No public playable demo for Wonderful Neoran Valley has been announced as of October 29, 2026. The Steam page is live for wishlisting, and the official website and Discord are the main channels for future announcements."
         }
       ]
     },
