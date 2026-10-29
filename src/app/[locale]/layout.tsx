@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://wonderfulneoranvalley.top";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -34,10 +34,20 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
       shortcut: ["/favicon.ico"],
     },
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: "Wonderful Neoran Valley Wiki", template: "%s" },
+    description: siteConfig.description,
+    keywords: ["Wonderful Neoran Valley", "Neoran", "monster collector", "roguelite", "battle guide", "creature guide"],
+    alternates: { canonical: `/${locale}` },
+    openGraph: {
+      type: "website",
+      locale,
+      url: `${siteUrl}/${locale}`,
+      siteName: siteConfig.name,
+      title: siteConfig.name,
+      description: siteConfig.description,
+      images: [{ url: image, width: 1200, height: 630, alt: "Wonderful Neoran Valley key art" }],
+    },
+    twitter: { card: "summary_large_image", title: siteConfig.name, description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -52,8 +62,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png`, width: 512, height: 512 },
+    "image": { "@type": "ImageObject", url: `${siteUrl}/images/hero.webp`, width: 1200, height: 630 },
+    sameAs: [siteConfig.social?.discord, siteConfig.social?.youtube, siteConfig.social?.twitter].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

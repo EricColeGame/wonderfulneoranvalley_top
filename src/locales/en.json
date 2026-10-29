@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Wonderful Neoran Valley Wiki",
+    "shortName": "Wonderful Neoran Valley",
+    "tagline": "Narrative Roguelite Monster Collector",
+    "description": "Find Wonderful Neoran Valley creature profiles, recruitment tips, battle strategies, team synergies, story guides, and release updates in one fan-made wiki.",
+    "legalNotice": "Independent fan-made wiki. Not affiliated with Nara Studio."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Narrative Roguelite Monster Collector",
+      "title": "Wonderful Neoran Valley Wiki",
+      "description": "Explore Wonderful Neoran Valley, a narrative-driven roguelite monster collector. Recruit unique Neoran through dialogue, plan tactical battles with a seven-turn foresight timeline, build powerful team synergies, and uncover the dark secrets hidden beneath the Valley.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "85 Unique Neoran",
+        "7-Turn Foresight",
+        "2028 Planned Release",
+        "PC / PS5 / Switch 2"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Official Site (PC / PS5 / Switch 2)",
+      "secondaryCta": "Join Official Discord",
+      "tertiaryCta": "Watch Official Trailer",
+      "videoLabel": "Official trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Explore Wonderful Neoran Valley?",
+      "description": "Recruit unique Neoran through dialogue, plan seven turns ahead, build powerful team synergies, and uncover the secrets hidden beneath the Valley.",
+      "primary": "Visit Official Site (PC / PS5 / Switch 2)",
+      "secondary": "Join Official Discord"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Wonderful Neoran Valley Wiki",
+    "about": "Wonderful Neoran Valley Wiki is an independent fan-built guide hub covering Neoran recruitment, seven-turn foresight battles, team synergies, creature profiles, and release updates.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Wonderful Neoran Valley Wiki. Independent fan site; not affiliated with Nara Studio.",
+    "description": "Narrative-driven roguelite monster collector from Nara Studio. Planned for PC, PS5, and Nintendo Switch 2 in 2028.",
+    "playGame": "Visit Official Website",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official X",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

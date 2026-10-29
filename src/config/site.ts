@@ -23,9 +23,9 @@ export const siteConfig: SiteConfig = {
   shortName: "Wonderful Neoran Valley",
   logoText: "W",
   tagline: "Narrative Roguelite Monster Collector",
-  description: "Explore Wonderful Neoran Valley, a narrative-driven roguelite monster collector with Neoran profiles, battle strategies, team synergies, and story guides.",
+  description: "Find Wonderful Neoran Valley creature profiles, recruitment tips, battle strategies, team synergies, story guides, and release updates in one fan-made wiki.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://wonderfulneoranvalley.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://wonderfulneoranvalley.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@wonderfulneoranvalley.top",
   gameUrl: "https://wonderfulneoranvalley.com/",
   heroVideoId: "xqhR0BEQOa8", // Wonderful Neoran Valley - Welcome to the Valley Trailer
   social: {
